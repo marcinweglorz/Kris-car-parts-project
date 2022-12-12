@@ -2,4 +2,4 @@
 
 Website in progress...
 
-Copyright 2023 &copy; Marcin Węglorz
+Copyright 2022 &copy; Marcin Węglorz
