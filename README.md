@@ -1,5 +1,3 @@
-# kris-car-parts-project
+# First basic web exercise / project
 
-Website in progress...
-
-Copyright 2022 &copy; Marcin Węglorz
+My first small web project made during frontend course for MMCSCHOOL.PL where i learned basics to create simple html, css web. A full and functional website will be created in the future
